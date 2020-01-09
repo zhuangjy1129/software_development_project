@@ -7,4 +7,4 @@ At last the project commit time in Github is different from our real time (from 
 1. Our dataset file is over 25MB which is too big to be uploaded.
 2. The "5methods_redshift.ipynb" contains our final results using 5 different machine learning methods to predict the redshift and visualize the output. This file needs to use Jupyter Notebook for running.
 
-#Link for our project on Git: https://github.com/552135371/software_development_project
+# Link for our project on Git: https://github.com/552135371/software_development_project
